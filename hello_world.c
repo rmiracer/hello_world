@@ -2,7 +2,7 @@
 
 int main()
 {
-  fprintf(stdout, "Hola mundo!\n");
+  fprintf(stderr, "Hola mundo!\n");
 
   return 0;
 }
