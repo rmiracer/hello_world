@@ -1,6 +1,8 @@
 #include <stdio.h>
 
-main()
+int main()
 {
   fprintf(stdout, "Hola mundo!\n");
+
+  return 0;
 }
